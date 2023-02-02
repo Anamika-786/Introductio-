@@ -2,3 +2,9 @@ name:post welcome comment
 on:
 pull_request:
 type:[opened]
+jobs:
+build:
+name: Comment
+runs-on:ubuntu
+#f
+-Italics_
